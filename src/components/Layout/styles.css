@@ -1,0 +1,11 @@
+.container {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: #444444;
+    font-size: 9pt;
+    background-color: #FAFAFA; /* TODO: remove on deployment */
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+}
