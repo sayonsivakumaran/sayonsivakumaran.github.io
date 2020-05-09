@@ -1,11 +1,10 @@
 import React from 'react';
 import { Image } from 'react-bootstrap';
-import img from '../../assets/profile-image.jpg';
 import './styles.css'
 
-export default () => (
+export default (props) => (
   <Image
-    src={img}
+    src={props.img}
     roundedCircle
     className='center-block'
   />
