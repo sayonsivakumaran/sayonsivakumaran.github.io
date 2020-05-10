@@ -1,7 +1,11 @@
 import React from 'react';
+import { Layout, VerticalNavbar } from '../../components';
 
 export default () => (
-  <div>
-    <h2>HELLO WORLDS</h2>
+  <div className='about-page'>
+    <VerticalNavbar page='About'/>
+    <Layout>
+
+    </Layout>
   </div>
 );
