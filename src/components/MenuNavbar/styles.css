@@ -1,8 +1,15 @@
-.menu-nav-item {
+.menu-nav {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
-.menu-nav {
-    display: inline;
-    list-style-type: none;
-    margin: 0 auto;
+.menu-nav li {
+    display: inline-block;
+    color: #ff9900;
+    padding-left: 4%;
+    padding-right: 4%;
+    font-size: 14pt;
+    font-weight: 300;
 }
