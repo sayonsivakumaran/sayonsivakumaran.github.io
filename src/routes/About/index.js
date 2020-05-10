@@ -1,10 +1,14 @@
 import React from 'react';
 import { Layout, VerticalNavbar, BioImage } from '../../components';
 import img from '../../assets/about-image.jpg';
+import { Helmet } from 'react-helmet';
 import './styles.css';
 
 export default () => (
   <div className='about-page'>
+    <Helmet>
+      <title>About | Sayon Sivakumaran</title>
+    </Helmet>
     <VerticalNavbar page='Projects'/>
     <Layout>
       <div className="modal-body row">
