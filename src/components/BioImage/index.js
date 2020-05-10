@@ -5,7 +5,7 @@ import './styles.css'
 export default (props) => (
   <Image
     src={props.img}
-    roundedCircle
-    className='profile-image'
+    rounded
+    className='bio-image'
   />
 );

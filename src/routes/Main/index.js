@@ -1,6 +1,7 @@
 import React from 'react';
 import { Layout, ProfileImage, MenuNavbar } from '../../components';
 import img from '../../assets/profile-image.jpg';
+import './styles.css';
 
 export default () => (
   <div className='main-page'>
