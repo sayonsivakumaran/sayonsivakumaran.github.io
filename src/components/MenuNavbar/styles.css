@@ -7,9 +7,17 @@
 
 .menu-nav li {
     display: inline-block;
-    color: #ff9900;
     padding-left: 4%;
     padding-right: 4%;
+}
+
+.menu-nav li a {
+    color: #ff9900;
+    text-decoration: none;
     font-size: 14pt;
     font-weight: 300;
+}
+
+.menu-nav li a:hover {
+    color: #ffc266;
 }
