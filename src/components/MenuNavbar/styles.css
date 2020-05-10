@@ -1,0 +1,8 @@
+.menu-nav-item {
+}
+
+.menu-nav {
+    display: inline;
+    list-style-type: none;
+    margin: 0 auto;
+}
