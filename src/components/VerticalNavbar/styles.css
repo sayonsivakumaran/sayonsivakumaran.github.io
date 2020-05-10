@@ -1,0 +1,26 @@
+.vertical-nav {
+    font-family: 'Open Sans', 'Arial', sans-serif;
+    list-style-type: none;
+    text-align: right;
+    margin: 0;
+    padding: 0;
+}
+
+.vertical-nav li {
+    display: inline-block;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+}
+
+.vertical-nav li a {
+    color: #ff9900;
+    text-decoration: none;
+    font-size: 14pt;
+    font-weight: 300;
+}
+
+.vertical-nav li a:hover {
+    color: #ffc266;
+}

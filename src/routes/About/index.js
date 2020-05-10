@@ -1,9 +1,9 @@
 import React from 'react';
-import { Layout, MenuNavbar } from '../../components';
+import { Layout, VerticalNavbar } from '../../components';
 
 export default () => (
   <div className='about-page'>
-    <MenuNavbar/>
+    <VerticalNavbar/>
     <Layout>
 
     </Layout>
