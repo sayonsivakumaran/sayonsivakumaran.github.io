@@ -1,6 +1,10 @@
 {
   "name": "sayonsivakumaran.github.io",
   "version": "0.1.0",
+  "engineStrict": true,
+  "engines": {
+    "node": ">=10.0.0"
+  },
   "private": true,
   "homepage": "https://sayonsivakumaran.github.io",
   "dependencies": {

@@ -1,6 +1,6 @@
 import React from 'react';
 import { Layout, VerticalNavbar, BioImage } from '../../components';
-import img from '../../assets/about-image.jpg';
+import { aboutImage } from '../../assets/images/';
 import { Helmet } from 'react-helmet';
 import './styles.css';
 
@@ -13,7 +13,7 @@ export default () => (
     <Layout>
       <div className="modal-body row">
         <div className="col-md-6 about-div">
-          <BioImage img={img}/>
+          <BioImage img={aboutImage}/>
         </div>
         <div className="col-md-6 about-div">
           <h1>About Me</h1>
