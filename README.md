@@ -1,3 +1,3 @@
 # [sayonsivakumaran.github.io](https://sayonsivakumaran.github.io/)
 
-Built with React.js and Bootstrap
+My personal website - built with React.js and Bootstrap.
