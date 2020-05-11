@@ -9,11 +9,11 @@ import { About, Main, Projects } from './routes';
 function App() {
   return (
     <React.Fragment>
-      <Router>
+      <Router basename={ process.env.PUBLIC_URL }>
         <Switch>
           <Route exact path='/' component={Main}/>
           <Route path='/about' component={About}/>
-          <Route path='/projects'component={Projects}/>
+          <Route path='/projects' component={Projects}/>
         </Switch>
       </Router>
     </React.Fragment>
