@@ -1,20 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4ed603b3.chunk.css",
-    "main.js": "/static/js/main.18807b69.chunk.js",
-    "main.js.map": "/static/js/main.18807b69.chunk.js.map",
+    "main.css": "/static/css/main.55721c60.chunk.css",
+    "main.js": "/static/js/main.5a9501ce.chunk.js",
+    "main.js.map": "/static/js/main.5a9501ce.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4744d5ee.js",
     "runtime-main.js.map": "/static/js/runtime-main.4744d5ee.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.4a3328e3.chunk.js": "/static/js/2.4a3328e3.chunk.js",
-    "static/js/2.4a3328e3.chunk.js.map": "/static/js/2.4a3328e3.chunk.js.map",
+    "static/js/2.67a6d028.chunk.js": "/static/js/2.67a6d028.chunk.js",
+    "static/js/2.67a6d028.chunk.js.map": "/static/js/2.67a6d028.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2663d00742eea159d35a8e5857406f22.js": "/precache-manifest.2663d00742eea159d35a8e5857406f22.js",
+    "precache-manifest.821bc12d2914b1911d3e81ec16d9210f.js": "/precache-manifest.821bc12d2914b1911d3e81ec16d9210f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.4ed603b3.chunk.css.map": "/static/css/main.4ed603b3.chunk.css.map",
-    "static/js/2.4a3328e3.chunk.js.LICENSE.txt": "/static/js/2.4a3328e3.chunk.js.LICENSE.txt",
-    "static/media/dummy.pdf": "/static/media/dummy.2942bfab.pdf",
+    "static/css/main.55721c60.chunk.css.map": "/static/css/main.55721c60.chunk.css.map",
+    "static/js/2.67a6d028.chunk.js.LICENSE.txt": "/static/js/2.67a6d028.chunk.js.LICENSE.txt",
+    "static/media/document-dummy.pdf": "/static/media/document-dummy.2942bfab.pdf",
+    "static/media/document-resume.pdf": "/static/media/document-resume.2b05e104.pdf",
     "static/media/icon-facebook.svg": "/static/media/icon-facebook.c81973fd.svg",
     "static/media/icon-github.svg": "/static/media/icon-github.2f91007e.svg",
     "static/media/icon-linkedin.svg": "/static/media/icon-linkedin.1686d418.svg",
@@ -25,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.4744d5ee.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.4a3328e3.chunk.js",
-    "static/css/main.4ed603b3.chunk.css",
-    "static/js/main.18807b69.chunk.js"
+    "static/js/2.67a6d028.chunk.js",
+    "static/css/main.55721c60.chunk.css",
+    "static/js/main.5a9501ce.chunk.js"
   ]
 }
