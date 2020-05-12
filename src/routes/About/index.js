@@ -17,9 +17,36 @@ export default () => (
         </div>
         <div className="col-md-6 about-div">
           <h1>About Me</h1>
-          <h4>Don't forget that gifts often come with costs that go beyond their purchase price. When you purchase a child the latest smartphone, you're also committing to a monthly phone bill. When you purchase the latest gaming system, you're likely not going to be satisfied with the games that come with it for long and want to purchase new titles to play. When you buy gifts it's important to remember that some come with additional costs down the road that can be much more expensive than the initial gift itself.</h4>
-          <h4>He watched as the young man tried to impress everyone in the room with his intelligence. There was no doubt that he was smart. The fact that he was more intelligent than anyone else in the room could have been easily deduced, but nobody was really paying any attention due to the fact that it was also obvious that the young man only cared about his intelligence.</h4>
-          <h4>The chair sat in the corner where it had been for over 25 years. The only difference was there was someone actually sitting in it. How long had it been since someone had done that? Ten years or more he imagined. Yet there was no denying the presence in the chair now.</h4>
+          <h4>Hello!</h4>
+          <h4>
+            I'm <b>Sayon Sivakumaran</b>, a second year Computer Science student at the University of Toronto, Scarborough campus.
+            Recently, I completed a co-op placement at Leonardo Worldwide as a full-stack software developer, where I worked on web applications using various different front-end and back-end technologies.
+            Some of my technology interests include virtual reality, artificial intelligence, and cloud computing.
+          </h4>
+          <h4>
+            <b>Projects</b>
+            <ul>
+              <li><a href='https://github.com/sayonsivakumaran/JShell'>JShell</a></li>
+              <li><a href='https://github.com/sayonsivakumaran/JetFighters'>Jet Fighters</a></li>
+              <li><a href='https://github.com/sayonsivakumaran/ResearchProject'>Statistical Research Project</a></li>
+            </ul>
+          </h4>
+          <h4>
+            <b>Tools & Technologies</b>
+            <ul>
+              <li>JavaScript</li>
+              <li>Java</li>
+              <li>C</li>
+              <li>HTML</li>
+              <li>React.js</li>
+              <li>Marko.js (SPA JavaScript Framework, similar to React.js)</li>
+              <li>Python</li>
+              <li>CSS</li>
+              <li>Maven</li>
+              <li>Groovy</li>
+              <li>Jest</li>
+            </ul>
+          </h4>
         </div>
       </div>
     </Layout>

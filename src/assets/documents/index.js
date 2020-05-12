@@ -1,1 +1,2 @@
-export { default as dummy } from './dummy.pdf';
+export { default as dummy } from './document-dummy.pdf';
+export { default as resume } from './document-resume.pdf';
