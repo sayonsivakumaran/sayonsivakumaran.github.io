@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.55721c60.chunk.css",
-    "main.js": "/static/js/main.56da3481.chunk.js",
-    "main.js.map": "/static/js/main.56da3481.chunk.js.map",
+    "main.css": "/static/css/main.e13b53fd.chunk.css",
+    "main.js": "/static/js/main.8e73a503.chunk.js",
+    "main.js.map": "/static/js/main.8e73a503.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4744d5ee.js",
     "runtime-main.js.map": "/static/js/runtime-main.4744d5ee.js.map",
     "static/css/2.de424728.chunk.css": "/static/css/2.de424728.chunk.css",
-    "static/js/2.67a6d028.chunk.js": "/static/js/2.67a6d028.chunk.js",
-    "static/js/2.67a6d028.chunk.js.map": "/static/js/2.67a6d028.chunk.js.map",
+    "static/js/2.e60f88e4.chunk.js": "/static/js/2.e60f88e4.chunk.js",
+    "static/js/2.e60f88e4.chunk.js.map": "/static/js/2.e60f88e4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7cbfef81ee36086f8ee7899a10f8b988.js": "/precache-manifest.7cbfef81ee36086f8ee7899a10f8b988.js",
+    "precache-manifest.962ee3afa4a3308006f9d3b846e3cc33.js": "/precache-manifest.962ee3afa4a3308006f9d3b846e3cc33.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/static/css/2.de424728.chunk.css.map",
-    "static/css/main.55721c60.chunk.css.map": "/static/css/main.55721c60.chunk.css.map",
-    "static/js/2.67a6d028.chunk.js.LICENSE.txt": "/static/js/2.67a6d028.chunk.js.LICENSE.txt",
+    "static/css/main.e13b53fd.chunk.css.map": "/static/css/main.e13b53fd.chunk.css.map",
+    "static/js/2.e60f88e4.chunk.js.LICENSE.txt": "/static/js/2.e60f88e4.chunk.js.LICENSE.txt",
     "static/media/document-dummy.pdf": "/static/media/document-dummy.2942bfab.pdf",
-    "static/media/document-resume.pdf": "/static/media/document-resume.2b05e104.pdf",
+    "static/media/document-resume.pdf": "/static/media/document-resume.a916c7d0.pdf",
     "static/media/icon-facebook.svg": "/static/media/icon-facebook.c81973fd.svg",
     "static/media/icon-github.svg": "/static/media/icon-github.2f91007e.svg",
     "static/media/icon-linkedin.svg": "/static/media/icon-linkedin.1686d418.svg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.4744d5ee.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.67a6d028.chunk.js",
-    "static/css/main.55721c60.chunk.css",
-    "static/js/main.56da3481.chunk.js"
+    "static/js/2.e60f88e4.chunk.js",
+    "static/css/main.e13b53fd.chunk.css",
+    "static/js/main.8e73a503.chunk.js"
   ]
 }
