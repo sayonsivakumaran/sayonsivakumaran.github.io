@@ -14,7 +14,7 @@ export default () => (
         <h2>Fall 2020</h2>
         <ul>
           <li>
-            <a href='/teaching/stab52f20'>STAB52</a>
+            <a href='/teaching/stab52f20'>STAB52 (Introduction to Probability)</a>
           </li>
         </ul>
       </div>

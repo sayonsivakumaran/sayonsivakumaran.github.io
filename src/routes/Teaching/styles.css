@@ -1,9 +1,31 @@
-.teaching-page h2 {
+.teaching-div h2 {
     font-size: 6vh;
     font-weight: 700;
 }
 
+.teaching-div ul li:before {
+    content: "•";
+    font-size: 100%;
+    padding-right: 10px;
+ }
+
+ .teaching-div li {
+    list-style-type: none;
+    font-size: 3.3vh;
+    line-height: 2;
+  }
+
 .teaching-div {
     margin-top: 5%;
     margin-bottom: 4%;
-  }
+}
+
+.teaching-div li a {
+    text-decoration: none;
+    font-weight: 500;
+    opacity: 1;
+}
+  
+.teaching-div li a:hover {
+    opacity: 0.7;
+}

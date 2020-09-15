@@ -1,5 +1,5 @@
-.about-page h1, 
-.about-page p {
+.about-div h1, 
+.about-div p {
   text-align: center;
 }
 
@@ -13,22 +13,22 @@
   line-height: 2;
 }
 
-.about-page p {
+.about-div p {
   font-size: 3.3vh;
   line-height: 2;
 }
 
-.about-page p b {
+.about-div p b {
   color: #0a47fe;
   font-weight: 500;
 }
 
-.about-page a {
+.about-div a {
   text-decoration: none;
   font-weight: 500;
-  opacity: 0.7;
+  opacity: 1;
 }
 
-.about-page a:hover {
-  opacity: 1;
+.about-div a:hover {
+  opacity: 0.7;
 }
