@@ -4,8 +4,8 @@ export default {
   },
   'Teaching': {
     'link': '/teaching'
-  },
+  }/*,
   'Projects': {
     'link': '/projects'
-  }
+  }*/
 };

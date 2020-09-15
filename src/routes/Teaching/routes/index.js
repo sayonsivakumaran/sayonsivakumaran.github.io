@@ -1,0 +1,1 @@
+export { default as STAB52F20 } from './STAB52F20';

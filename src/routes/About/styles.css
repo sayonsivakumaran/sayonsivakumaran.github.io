@@ -3,6 +3,11 @@
   text-align: center;
 }
 
+.about-div {
+  margin-top: 5%;
+  margin-bottom: 4%;
+}
+
 .about-page h1 {
   font-size: 7vh;
   line-height: 2;
