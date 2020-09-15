@@ -1,10 +1,14 @@
 export default {
+  'Home': {
+    'link': '/'
+  },
   'Projects': {
-    'header': 'Projects',
     'link': '/projects'
   },
   'About': {
-    'header': 'About',
     'link': '/about'
+  },
+  'Teaching': {
+    'link': '/teaching'
   }
 };
