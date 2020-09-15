@@ -1,7 +1,7 @@
 import React from 'react';
 import './styles.css';
 import { resume } from '../../assets/documents';
-//import config from './config.js';
+// import config from './config.js';
 
 export default (props) => (
   <ul className='vertical-nav'>
