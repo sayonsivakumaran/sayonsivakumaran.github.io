@@ -1,6 +1,23 @@
 .stab52f20-div h3 {
     font-size: 5vh;
+    line-height: 2;
+    font-weight: 700;
+}
+
+.stab52f20-div h4 {
+    font-size: 3.5vh;
+    font-weight: 500;
+    line-height: 2;
+}
+
+.stab52f20-div h4 b {
     font-weight: 600;
+}
+
+.stab52f20-div h5 {
+    font-size: 3.1vh;
+    font-weight: 500;
+    line-height: 2;
 }
 
 .stab52f20-div ul li:before {
@@ -12,7 +29,7 @@
 
  .stab52f20-div li {
     list-style-type: none;
-    font-size: 3.3vh;
+    font-size: 2.4vh;
     line-height: 2;
   }
 

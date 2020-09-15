@@ -2,10 +2,11 @@
     font-family: 'Open Sans', 'Arial', sans-serif;
     color: #0a47fe;
     text-decoration: none;
-    font-size: 3.5vh;
+    font-size: 3vh;
     font-weight: 500;
+    opacity: 1;
 }
 
 .vertical-nav-link:hover {
-    color: #3366ff;
+    opacity: 0.8;
 }

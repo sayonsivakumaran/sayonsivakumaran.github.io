@@ -1,6 +1,7 @@
 .teaching-div h3 {
     font-size: 5vh;
-    font-weight: 600;
+    font-weight: 700;
+    line-height: 2;
 }
 
 .teaching-div ul li:before {
