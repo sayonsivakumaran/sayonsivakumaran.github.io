@@ -15,12 +15,12 @@
 }
 
 .menu-nav li a {
-    color: #ff9900;
+    color: #0a47fe;
     text-decoration: none;
     font-size: 14pt;
-    font-weight: 300;
+    font-weight: 500;
 }
 
 .menu-nav li a:hover {
-    font-weight: 500;
+    color: #0028a1;
 }

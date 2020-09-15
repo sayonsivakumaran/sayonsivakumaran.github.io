@@ -9,7 +9,7 @@ export default () => (
     <Helmet>
       <title>About | Sayon Sivakumaran</title>
     </Helmet>
-    <VerticalNavbar page='Projects'/>
+    <VerticalNavbar page='Teaching'/>
     <Layout>
       <div className="modal-body row">
         <div className="col-md-6 about-div">

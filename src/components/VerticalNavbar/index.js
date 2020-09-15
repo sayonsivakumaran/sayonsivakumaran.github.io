@@ -3,19 +3,19 @@ import './styles.css';
 import { resume } from '../../assets/documents';
 import config from './config.js';
 
-const func = (currentPage) => {
+const getNavbarHeaders = (currentPage) => {
   delete config[currentPage];
   let tabs = [];
   Object.keys(config).forEach(page => {
     tabs.push(
       <li key={ page }>
-        <a href={ config[page].link }>{ page }</a>
+        <a className='nav-link vertical-nav-link' href={ config[page].link }>{ page }</a>
       </li>
     );
   });
   tabs.push(
     <li key='Resume'>
-      <a href={ resume }>Resume</a>
+      <a className='nav-link vertical-nav-link' href={ resume }>Resume</a>
     </li>
   );
   
@@ -23,14 +23,14 @@ const func = (currentPage) => {
 }
 
 export default (props) => (
-
-
-  <ul className='vertical-nav'>
-    {
-      func(props.page)
-    }
-    {/* <li><a href='/'>Home</a></li> */}
-    {/* <li><a href={ config[props.page].link }>{ config[props.page].header }</a></li> */}
-    {/* <li><a href={resume}>Resume</a></li> */}
-  </ul>
+  <nav class="navbar navbar-expand-sm justify-content-end">
+    <a class="navbar-link vertical-nav-link ml-1" href="/">Home</a>
+    <div class="collapse navbar-collapse flex-grow-0 ml-auto mr-1" id="navbarSupportedContent">
+        <ul class="navbar-nav text-right">
+            {
+              getNavbarHeaders(props.page)
+            }
+        </ul>
+    </div>
+</nav>
 );

@@ -8,7 +8,7 @@ export default () => (
     <Helmet>
       <title>{'Projects | Sayon Sivakumaran'}</title>
     </Helmet>
-    <VerticalNavbar page='About'/>
+    <VerticalNavbar page='Projects'/>
     <Layout>
       <h4>
         <div className='narrow-container'>
