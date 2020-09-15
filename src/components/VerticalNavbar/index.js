@@ -4,7 +4,10 @@ import { resume } from '../../assets/documents';
 import config from './config.js';
 
 const getNavbarHeaders = (currentPage) => {
-  delete config[currentPage];
+  if (currentPage) {
+    delete config[currentPage];
+  }
+
   let tabs = [];
   Object.keys(config).forEach(page => {
     tabs.push(
@@ -15,7 +18,7 @@ const getNavbarHeaders = (currentPage) => {
   });
   tabs.push(
     <li key='Resume'>
-      <a className='nav-link vertical-nav-link' href={ resume }>Resume</a>
+      <a className='nav-link vertical-nav-link mr-1' href={ resume }>Resume</a>
     </li>
   );
   
@@ -24,8 +27,8 @@ const getNavbarHeaders = (currentPage) => {
 
 export default (props) => (
   <nav class="navbar navbar-expand-sm justify-content-end">
-    <a class="navbar-link vertical-nav-link ml-1" href="/">Home</a>
-    <div class="collapse navbar-collapse flex-grow-0 ml-auto mr-1" id="navbarSupportedContent">
+    <a class="nav-link vertical-nav-link" href="/">Home</a>
+    <div class="collapse navbar-collapse flex-grow-0 ml-auto" id="navbarSupportedContent">
         <ul class="navbar-nav text-right">
             {
               getNavbarHeaders(props.page)

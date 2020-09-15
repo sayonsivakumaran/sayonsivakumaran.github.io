@@ -11,7 +11,7 @@ export default () => (
     <VerticalNavbar page='Teaching'/>
     <Layout>
       <div className='teaching-div'>
-        <h2>Fall 2020</h2>
+        <h3>Fall 2020</h3>
         <ul>
           <li>
             <a href='/teaching/stab52f20'>STAB52 (Introduction to Probability)</a>

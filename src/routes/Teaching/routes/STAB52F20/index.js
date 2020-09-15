@@ -1,17 +1,17 @@
 import React from 'react';
 import { Layout, VerticalNavbar } from '../../../../components';
 import { Helmet } from 'react-helmet';
-// import './styles.css';
+import './styles.css';
 
 export default () => (
-  <div className='teaching-page'>
+  <div className='stab52f20-page'>
     <Helmet>
-      <title>{'Teaching | Sayon Sivakumaran'}</title>
+      <title>{'STAB52 Fall 2020 | Sayon Sivakumaran'}</title>
     </Helmet>
-    <VerticalNavbar page='Teaching'/>
+    <VerticalNavbar/>
     <Layout>
-      <div className='teaching-div'>
-        <h2>Fall 2020</h2>
+      <div className='stab52f20-div'>
+        <h3>September 17, 2020</h3>
         <ul>
           <li>
             <a href='/teaching/stab52f20'>STAB53</a>
