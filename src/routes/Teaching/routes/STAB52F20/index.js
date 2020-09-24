@@ -1,6 +1,6 @@
 import React from 'react';
 import { Layout, VerticalNavbar } from '../../../../components';
-import { dummy } from '../../../../assets/documents';
+import { stab52f20w1, stab52f20w2 } from '../../../../assets/documents';
 import { Helmet } from 'react-helmet';
 import './styles.css';
 
@@ -19,7 +19,13 @@ export default () => (
         <h5>September 17, 2020</h5>
         <ul>
           <li>
-            <a href={dummy}>Probability Models & Combinatorics</a>
+            <a href={stab52f20w1}>Probability Models</a>
+          </li>
+        </ul>
+        <h5>September 24, 2020</h5>
+        <ul>
+          <li>
+            <a href={stab52f20w2}>Counting</a>
           </li>
         </ul>
       </div>
