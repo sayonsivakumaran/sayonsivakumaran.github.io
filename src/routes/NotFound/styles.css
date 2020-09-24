@@ -13,12 +13,13 @@
 }
 
 .not-found-message a {
-  color: #ff9900;
+  font-weight: 500;
+  color: #0a47fe;
   text-decoration: none;
 }
 
 .not-found-message a:hover {
-  font-weight: 500;
+  opacity: 0.8;
 }
 
 .not-found-message h1 {
