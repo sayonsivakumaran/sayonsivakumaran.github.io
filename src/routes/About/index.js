@@ -1,6 +1,5 @@
 import React from 'react';
-import { Layout, VerticalNavbar, BioImage } from '../../components';
-import { aboutImage } from '../../assets/images/';
+import { Layout, VerticalNavbar } from '../../components';
 import { Helmet } from 'react-helmet';
 import './styles.css';
 
