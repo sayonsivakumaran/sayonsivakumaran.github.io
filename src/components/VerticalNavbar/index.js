@@ -26,10 +26,10 @@ const getNavbarHeaders = (currentPage) => {
 }
 
 export default (props) => (
-  <nav class="navbar navbar-expand-sm justify-content-end">
-    <a class="nav-link vertical-nav-link" href="/">Home</a>
-    <div class="collapse navbar-collapse flex-grow-0 ml-auto" id="navbarSupportedContent">
-        <ul class="navbar-nav text-right">
+  <nav className="navbar navbar-expand-sm justify-content-end">
+    <a className="nav-link vertical-nav-link" href="/">Home</a>
+    <div className="collapse navbar-collapse flex-grow-0 ml-auto" id="navbarSupportedContent">
+        <ul className="navbar-nav text-right">
             {
               getNavbarHeaders(props.page)
             }
