@@ -1,6 +1,6 @@
 import React from 'react';
 import { Layout, VerticalNavbar } from '../../../../components';
-import { stab52f20w1, stab52f20w2, stab52f20w3 } from '../../../../assets/documents';
+import { stab52f20w1, stab52f20w2, stab52f20w3, stab52f20w4 } from '../../../../assets/documents';
 import { Helmet } from 'react-helmet';
 import './styles.css';
 
@@ -32,6 +32,12 @@ export default () => (
         <ul>
           <li>
             <a href={stab52f20w3}>Conditional Probability</a>
+          </li>
+        </ul>
+        <h5>October 8, 2020</h5>
+        <ul>
+          <li>
+            <a href={stab52f20w4}>Discrete Random Variables</a>
           </li>
         </ul>
       </div>
