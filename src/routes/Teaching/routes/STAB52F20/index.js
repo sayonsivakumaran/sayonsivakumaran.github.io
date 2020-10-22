@@ -46,6 +46,12 @@ export default () => (
             <a href={stab52f20w4}>Discrete Random Variables</a>
           </li>
         </ul>
+        <h5>October 15, 2020</h5>
+        <ul>
+          <li>
+            Reading Week (No Classes)
+          </li>
+        </ul>
         <h5>October 22, 2020</h5>
         <ul>
           <li>

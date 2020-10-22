@@ -31,17 +31,14 @@
     list-style-type: none;
     font-size: 2.4vh;
     line-height: 2;
+    text-decoration: none;
+    font-weight: 500;
+    opacity: 1;
   }
 
 .stab52f20-div {
     margin-top: 5%;
     margin-bottom: 4%;
-}
-
-.stab52f20-div li a {
-    text-decoration: none;
-    font-weight: 500;
-    opacity: 1;
 }
   
 .stab52f20-div li a:hover {
