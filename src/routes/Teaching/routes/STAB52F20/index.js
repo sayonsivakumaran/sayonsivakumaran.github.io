@@ -62,7 +62,7 @@ export default () => (
         <h5>October 29, 2020</h5>
         <ul>
           <li>
-            <a href={stab52f20w7}>Expectation & Variance</a>
+            <a href={stab52f20w7}>Expectation and Variance</a>
           </li>
         </ul>
       </div>
