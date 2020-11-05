@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b2207033.chunk.css",
-    "main.js": "/static/js/main.3cf87109.chunk.js",
-    "main.js.map": "/static/js/main.3cf87109.chunk.js.map",
+    "main.css": "/static/css/main.9e0e0dc3.chunk.css",
+    "main.js": "/static/js/main.a6eb50a2.chunk.js",
+    "main.js.map": "/static/js/main.a6eb50a2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4744d5ee.js",
     "runtime-main.js.map": "/static/js/runtime-main.4744d5ee.js.map",
     "static/css/2.5b44f0a0.chunk.css": "/static/css/2.5b44f0a0.chunk.css",
-    "static/js/2.152f0f66.chunk.js": "/static/js/2.152f0f66.chunk.js",
-    "static/js/2.152f0f66.chunk.js.map": "/static/js/2.152f0f66.chunk.js.map",
+    "static/js/2.19080686.chunk.js": "/static/js/2.19080686.chunk.js",
+    "static/js/2.19080686.chunk.js.map": "/static/js/2.19080686.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.835632bc08f0692981a7753dbe7e995f.js": "/precache-manifest.835632bc08f0692981a7753dbe7e995f.js",
+    "precache-manifest.299acac1cbb4d1bc3f9c1227bb24ac64.js": "/precache-manifest.299acac1cbb4d1bc3f9c1227bb24ac64.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.5b44f0a0.chunk.css.map": "/static/css/2.5b44f0a0.chunk.css.map",
-    "static/css/main.b2207033.chunk.css.map": "/static/css/main.b2207033.chunk.css.map",
-    "static/js/2.152f0f66.chunk.js.LICENSE.txt": "/static/js/2.152f0f66.chunk.js.LICENSE.txt",
+    "static/css/main.9e0e0dc3.chunk.css.map": "/static/css/main.9e0e0dc3.chunk.css.map",
+    "static/js/2.19080686.chunk.js.LICENSE.txt": "/static/js/2.19080686.chunk.js.LICENSE.txt",
     "static/media/document-dummy.pdf": "/static/media/document-dummy.2942bfab.pdf",
     "static/media/document-resume.pdf": "/static/media/document-resume.9150256a.pdf",
     "static/media/document-week1.pdf": "/static/media/document-week1.37c3e0aa.pdf",
@@ -22,6 +22,7 @@
     "static/media/document-week4.pdf": "/static/media/document-week4.0ada53c9.pdf",
     "static/media/document-week6.pdf": "/static/media/document-week6.50f6715f.pdf",
     "static/media/document-week7.pdf": "/static/media/document-week7.4f05402e.pdf",
+    "static/media/document-week8.pdf": "/static/media/document-week8.11d710c9.pdf",
     "static/media/icon-facebook.svg": "/static/media/icon-facebook.c81973fd.svg",
     "static/media/icon-github.svg": "/static/media/icon-github.2f91007e.svg",
     "static/media/icon-linkedin.svg": "/static/media/icon-linkedin.1686d418.svg",
@@ -32,8 +33,8 @@
   "entrypoints": [
     "static/js/runtime-main.4744d5ee.js",
     "static/css/2.5b44f0a0.chunk.css",
-    "static/js/2.152f0f66.chunk.js",
-    "static/css/main.b2207033.chunk.css",
-    "static/js/main.3cf87109.chunk.js"
+    "static/js/2.19080686.chunk.js",
+    "static/css/main.9e0e0dc3.chunk.css",
+    "static/js/main.a6eb50a2.chunk.js"
   ]
 }
