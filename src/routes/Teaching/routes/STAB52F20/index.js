@@ -7,7 +7,8 @@ import {
   stab52f20w4,
   stab52f20w6,
   stab52f20w7,
-  stab52f20w8 
+  stab52f20w8,
+  stab52f20w9 
 } from '../../../../assets/documents';
 import { Helmet } from 'react-helmet';
 import './styles.css';
@@ -70,6 +71,12 @@ export default () => (
         <ul>
           <li>
             <a href={stab52f20w8}>Continuous Random Variables</a>
+          </li>
+        </ul>
+        <h5>November 12, 2020</h5>
+        <ul>
+          <li>
+            <a href={stab52f20w9}>Continuous Random Variables</a>
           </li>
         </ul>
       </div>
