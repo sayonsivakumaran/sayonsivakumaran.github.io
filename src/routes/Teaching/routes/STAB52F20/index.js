@@ -76,7 +76,7 @@ export default () => (
         <h5>November 12, 2020</h5>
         <ul>
           <li>
-            <a href={stab52f20w9}>Continuous Random Variables</a>
+            <a href={stab52f20w9}>Multivariate Continuous Distributions</a>
           </li>
         </ul>
       </div>
