@@ -8,3 +8,4 @@ export { default as stab52f20w7 } from './document-week7.pdf';
 export { default as stab52f20w8 } from './document-week8.pdf';
 export { default as stab52f20w9 } from './document-week9.pdf';
 export { default as stab52f20w10 } from './document-week10.pdf';
+export { default as stab52f20w11 } from './document-week11.pdf';

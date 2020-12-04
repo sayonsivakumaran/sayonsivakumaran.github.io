@@ -8,7 +8,9 @@ import {
   stab52f20w6,
   stab52f20w7,
   stab52f20w8,
-  stab52f20w9 
+  stab52f20w9,
+  stab52f20w10,
+  stab52f20w11
 } from '../../../../assets/documents';
 import { Helmet } from 'react-helmet';
 import './styles.css';
@@ -77,6 +79,18 @@ export default () => (
         <ul>
           <li>
             <a href={stab52f20w9}>Multivariate Continuous Distributions</a>
+          </li>
+        </ul>
+        <h5>November 19, 2020</h5>
+        <ul>
+          <li>
+            <a href={stab52f20w10}>Inequalities and Law of Large Numbers</a>
+          </li>
+        </ul>
+        <h5>November 26, 2020</h5>
+        <ul>
+          <li>
+            <a href={stab52f20w11}>Normal Distribution</a>
           </li>
         </ul>
       </div>
