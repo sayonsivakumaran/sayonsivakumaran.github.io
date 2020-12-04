@@ -85,7 +85,7 @@ export default () => (
         <h5>November 19, 2020</h5>
         <ul>
           <li>
-            <a href={stab52f20w10}>Inequalities and Law of Large Numbers</a>
+            <a href={stab52f20w10}>Inequalities and the Law of Large Numbers</a>
           </li>
         </ul>
         <h5>November 26, 2020</h5>
@@ -97,7 +97,7 @@ export default () => (
         <h5>December 3, 2020</h5>
         <ul>
           <li>
-            <a href={stab52f20w12}>Moment Generating Functions and Central Limit Theorem</a>
+            <a href={stab52f20w12}>Moment Generating Functions and the Central Limit Theorem</a>
           </li>
         </ul>
       </div>
