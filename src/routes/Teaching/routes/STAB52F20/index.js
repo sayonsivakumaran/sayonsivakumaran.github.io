@@ -10,7 +10,8 @@ import {
   stab52f20w8,
   stab52f20w9,
   stab52f20w10,
-  stab52f20w11
+  stab52f20w11,
+  stab52f20w12
 } from '../../../../assets/documents';
 import { Helmet } from 'react-helmet';
 import './styles.css';
@@ -91,6 +92,12 @@ export default () => (
         <ul>
           <li>
             <a href={stab52f20w11}>Normal Distribution</a>
+          </li>
+        </ul>
+        <h5>December 3, 2020</h5>
+        <ul>
+          <li>
+            <a href={stab52f20w12}>Moment Generating Functions and Central Limit Theorem</a>
           </li>
         </ul>
       </div>
