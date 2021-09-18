@@ -12,7 +12,6 @@ export default () => (
     <Layout>
       <ProfileImage img={profileImage}/>
       <h1>Sayon Sivakumaran</h1>
-      <h4>Software Engineer | Teaching Assistant | UofT CS & Stats</h4>
       <SocialMediaNavbar/>
       <MenuNavbar/>
     </Layout>
